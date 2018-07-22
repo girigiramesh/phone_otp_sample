@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">phone_otp_sample</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="tag_send">send</string>
+    <string name="tag_verify">verify</string>
 </resources>
